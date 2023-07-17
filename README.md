@@ -38,6 +38,8 @@ The data visualizations were created using Python programming language and the f
 
 3.	Seaborn: Seaborn library was used to enhance the visualizations with attractive color palettes, improved aesthetics, and simplified plotting functions. It helped in creating visually appealing and informative scatter plots.
 
+4.	Tableau: Tableau was used to generate a beautiful bubble chart visualization with unique colour allocations to each data based on different attributes and features.
+
 By leveraging these algorithms and libraries, we were able to generate visualizations that effectively communicated the insights and patterns within the Pokémon data. These tools provided the flexibility to customize the visualizations and create an engaging data story that catered to both trainers and enthusiasts.
 
 

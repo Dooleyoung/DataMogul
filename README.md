@@ -31,7 +31,7 @@ The thought process behind this data story involved analyzing Pokémon data to u
 
 **Algorithms/Libraries Used to Generate the Visualizations**:
 
-The data visualizations were created using Python programming language and the following libraries:
+The data visualizations were created using Tableau, Python programming language and the following libraries:
 1.	Pandas: Pandas library was used for data manipulation and analysis. It allowed us to load the Pokémon data into a DataFrame, perform feature engineering, and group the data based on different attributes.
 
 2.	Matplotlib: Matplotlib library was used for creating the bar chart and scatter plots. It provided a wide range of functionalities for customizing the visual appearance, such as adjusting the figure size, adding labels and legends, and annotating specific data points.

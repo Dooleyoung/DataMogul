@@ -49,3 +49,12 @@ As our exploration draws to a close, we reflect on the remarkable insights we ha
 
 By intertwining the art of storytelling with data-driven analysis, we have unraveled the secrets of Pokémon power, empowering trainers to embrace the extraordinary and embark on extraordinary adventures.
 
+
+
+
+**Link to Screen Recording**
+
+https://www.loom.com/share/81f52031eada482da93a9a1fc581042e?sid=2df8c15f-b993-4782-a9c4-9666298451ba
+
+
+
